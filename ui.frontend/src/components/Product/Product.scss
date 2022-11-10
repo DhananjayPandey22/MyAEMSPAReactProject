@@ -1,0 +1,50 @@
+.Product {
+  column-count: 2;
+}
+Image-src {
+  vertical-align: center;
+}
+.product-details {
+  vertical-align: baseline;
+  padding: 50px;
+}
+.pro-name {
+  font-weight: 900;
+  line-height: 1.29166667;
+}
+.pro-price {
+  padding: 20px;
+}
+.pro-desc {
+  padding: 20px, 0, 20, 0;
+  margin: 20px, 0;
+}
+.pro-button {
+  padding-top: 30px;
+  text-align: right;
+  margin: 20px, 0;
+}
+.pro-btn {
+  width: 100px;
+
+  margin: 20px, 0;
+  height: 40px;
+  background-color: red;
+  border: none;
+}
+
+p {
+  line-height: 1.2 !important;
+}
+.pro-badge {
+  width: 60px;
+  height: 60px;
+  left: 0px;
+  overflow: hidden;
+
+  // padding: px;
+
+  display: block;
+
+  text-indent: -9999px;
+}
