@@ -22,7 +22,7 @@ export default class Banner extends Component {
     );
   }
 
-  // display our custom bannerText property!
+  // display our custom bannerText property!!
   get bannerText() {
     if (this.props.bannerText) {
       return <h2 className="Ba-Text">{this.props.bannerText}</h2>;
